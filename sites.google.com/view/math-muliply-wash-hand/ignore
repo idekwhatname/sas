@@ -1,4 +1,0 @@
-git mv <sas> <index.php>
-git add <index.php>
-git commit -m "Renaming folder"
-git push -u origin main
